@@ -1,0 +1,72 @@
+# ======================================
+# Python
+# ======================================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ======================================
+# Entornos virtuales
+# ======================================
+venv/
+.venv/
+env/
+
+# ======================================
+# Jupyter
+# ======================================
+.ipynb_checkpoints/
+
+# Ignorar todos los notebooks
+*.ipynb
+
+# Excepto el notebook principal
+!1_gender-wagegap_fullanalysis.ipynb
+
+# ======================================
+# Datos
+# ======================================
+
+# Ignorar todos los archivos dentro de data
+data/*
+
+# Excepto los dos que quieres publicar
+!data/evolucion_inpc.csv
+!data/salario_genero.csv
+
+# ======================================
+# Variables de entorno y secretos
+# ======================================
+.env
+*.env
+*.key
+*.pem
+
+# ======================================
+# Logs y archivos temporales
+# ======================================
+*.log
+*.tmp
+
+# ======================================
+# Sistema operativo
+# ======================================
+.DS_Store
+Thumbs.db
+
+# ======================================
+# VS Code
+# ======================================
+.vscode/
+
+# ======================================
+# Archivos de Excel
+# ======================================
+*.xls
+*.xlsx
+
+# ======================================
+# Modelos y archivos pesados
+# ======================================
+*.pkl
+*.parquet
