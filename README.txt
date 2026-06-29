@@ -152,5 +152,3 @@ Feel free to connect or share your feedback!
 - Economic Data Interpretation
 - Git Version Control
 - Research-Oriented Analysis
-
-hombres y mujeres, una vez considerados los salarios reales calculados mediante el INPC?
