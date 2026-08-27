@@ -9,6 +9,7 @@ README
 
 # 📊 Gender Wage Gap Analysis in Mexico (2010–2025)
 ## 📌 Project Overview
+###Available on: https://brechasalarial.streamlit.app/ 
 
 Despite years of discussions around gender equality, an important question remains:
 > **If women's salaries have been increasing over time, why does the gender wage gap still exist?**
